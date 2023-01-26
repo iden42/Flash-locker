@@ -1,0 +1,1 @@
+C:\Users\iden42\source\repos\Flash_locker\Flash_locker\obj\Debug\net6.0-windows\Flash_locker.csproj.AssemblyReference.cache
